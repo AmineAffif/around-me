@@ -2,6 +2,9 @@
 
 School React project 💻
 
+<img width="1177" alt="image" src="https://user-images.githubusercontent.com/45182137/218812835-148a51d7-8088-432a-989d-a678077f3f67.png">
+
+
 ## Getting started
 
 In the project directory, you can run:
