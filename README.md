@@ -18,3 +18,4 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 - 📍 Map location from the address input
 - 🍃 Current weather
 - ✅ Responsive
+<img width="310" alt="image" src="https://user-images.githubusercontent.com/45182137/218812646-52250c8e-6d99-4733-b0f4-e8ee63de503b.png">
